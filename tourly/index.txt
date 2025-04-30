@@ -47,10 +47,10 @@ Book now
 
 # TOUR SEARCH
 
-s
+
 placeholder = Enter Destination
 
-Pax Number* 
+ Number* 
 placeholder = No.of People
 
 Checkin Date*
